@@ -5,7 +5,7 @@ it is a new Social Media and a Lebanese start up website. you can share image, v
 in this API, you can Share Contents (Text, Images, Audios, Videos) easily with PHP code.
 
 
-#Sample Send Post 
+## Sample Send Post 
 ```
      $content=array(
         "handle"=>$type, //page group
@@ -20,7 +20,7 @@ in this API, you can Share Contents (Text, Images, Audios, Videos) easily with P
     $result = $ghbot->sendMessage($content);
  ```
 
-#Follow me at: 
+## Follow me at: 
 My [Ghadiruna](https://www.ghadiruna.com/pages/skhanzadeh_ir)
 
 My [Website](https://skhanzadeh.ir)
