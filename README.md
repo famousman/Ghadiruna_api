@@ -1,9 +1,7 @@
 # Ghadiruna_api
 Ghadiruna
-it is a new Social Media and a __Lebanese__ start up website. you can share image, video, sound and text posts and share a story for 24 hours, find friends, create groups and make an event.
-
+Ghadiruna is a new Social Media and a __Lebanese__ start-up website. you can share images, videos, sound, and text posts and share a story for 24 hours, find friends, create groups, and make an event.
 in this API, you can Share Contents (Text, Images, Audios, Videos) easily with PHP code.
-
 
 ## Sample Send Post 
 ```
