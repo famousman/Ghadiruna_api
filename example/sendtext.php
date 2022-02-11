@@ -27,7 +27,7 @@ if (isset($dis)) {
     );
     $result = $ghbot->sendMessage($content);
     if ($result['ok']===true) {
-        $text = " پیروزمندانه پیام فرستاده شد! 😃";
+        $text = "sent successful";
     } else {
         echo $result["description"];
     }
