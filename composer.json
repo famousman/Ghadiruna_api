@@ -1,0 +1,17 @@
+{
+  "name": "vendor_name/ghadiruna_api",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "genius",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-fileinfo": "*"
+  }
+}
